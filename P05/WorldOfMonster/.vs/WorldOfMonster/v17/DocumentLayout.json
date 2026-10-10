@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ricesky\\source\\repos\\WorldOfMonster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19B35E81-BA3A-4225-BC64-C6993399C7AB}|WorldOfMonsterWithInheritance\\WorldOfMonsterWithInheritance.csproj|c:\\users\\ricesky\\source\\repos\\worldofmonster\\worldofmonsterwithinheritance\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B35E81-BA3A-4225-BC64-C6993399C7AB}|WorldOfMonsterWithInheritance\\WorldOfMonsterWithInheritance.csproj|solutionrelative:worldofmonsterwithinheritance\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B35E81-BA3A-4225-BC64-C6993399C7AB}|WorldOfMonsterWithInheritance\\WorldOfMonsterWithInheritance.csproj|c:\\users\\ricesky\\source\\repos\\worldofmonster\\worldofmonsterwithinheritance\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B35E81-BA3A-4225-BC64-C6993399C7AB}|WorldOfMonsterWithInheritance\\WorldOfMonsterWithInheritance.csproj|solutionrelative:worldofmonsterwithinheritance\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B35E81-BA3A-4225-BC64-C6993399C7AB}|WorldOfMonsterWithInheritance\\WorldOfMonsterWithInheritance.csproj|c:\\users\\ricesky\\source\\repos\\worldofmonster\\worldofmonsterwithinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B35E81-BA3A-4225-BC64-C6993399C7AB}|WorldOfMonsterWithInheritance\\WorldOfMonsterWithInheritance.csproj|solutionrelative:worldofmonsterwithinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B35E81-BA3A-4225-BC64-C6993399C7AB}|WorldOfMonsterWithInheritance\\WorldOfMonsterWithInheritance.csproj|c:\\users\\ricesky\\source\\repos\\worldofmonster\\worldofmonsterwithinheritance\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B35E81-BA3A-4225-BC64-C6993399C7AB}|WorldOfMonsterWithInheritance\\WorldOfMonsterWithInheritance.csproj|solutionrelative:worldofmonsterwithinheritance\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B35E81-BA3A-4225-BC64-C6993399C7AB}|WorldOfMonsterWithInheritance\\WorldOfMonsterWithInheritance.csproj|c:\\users\\ricesky\\source\\repos\\worldofmonster\\worldofmonsterwithinheritance\\orc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B35E81-BA3A-4225-BC64-C6993399C7AB}|WorldOfMonsterWithInheritance\\WorldOfMonsterWithInheritance.csproj|solutionrelative:worldofmonsterwithinheritance\\orc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB67391-1A65-4D13-90FE-7A5D5AB7B5F3}|WorldOfMonster\\WorldOfMonster.csproj|c:\\users\\ricesky\\source\\repos\\worldofmonster\\worldofmonster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB67391-1A65-4D13-90FE-7A5D5AB7B5F3}|WorldOfMonster\\WorldOfMonster.csproj|solutionrelative:worldofmonster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB67391-1A65-4D13-90FE-7A5D5AB7B5F3}|WorldOfMonster\\WorldOfMonster.csproj|c:\\users\\ricesky\\source\\repos\\worldofmonster\\worldofmonster\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB67391-1A65-4D13-90FE-7A5D5AB7B5F3}|WorldOfMonster\\WorldOfMonster.csproj|solutionrelative:worldofmonster\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB67391-1A65-4D13-90FE-7A5D5AB7B5F3}|WorldOfMonster\\WorldOfMonster.csproj|c:\\users\\ricesky\\source\\repos\\worldofmonster\\worldofmonster\\orc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB67391-1A65-4D13-90FE-7A5D5AB7B5F3}|WorldOfMonster\\WorldOfMonster.csproj|solutionrelative:worldofmonster\\orc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB67391-1A65-4D13-90FE-7A5D5AB7B5F3}|WorldOfMonster\\WorldOfMonster.csproj|c:\\users\\ricesky\\source\\repos\\worldofmonster\\worldofmonster\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFB67391-1A65-4D13-90FE-7A5D5AB7B5F3}|WorldOfMonster\\WorldOfMonster.csproj|solutionrelative:worldofmonster\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\WorldOfMonster\\WorldOfMonsterWithInheritance\\Monster.cs",
+              "RelativeDocumentMoniker": "WorldOfMonsterWithInheritance\\Monster.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\WorldOfMonster\\WorldOfMonsterWithInheritance\\Monster.cs",
+              "RelativeToolTip": "WorldOfMonsterWithInheritance\\Monster.cs",
+              "ViewState": "AgIAAAYAAADwmZmZmdkgwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:42:48.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Wizard.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\WorldOfMonster\\WorldOfMonsterWithInheritance\\Wizard.cs",
+              "RelativeDocumentMoniker": "WorldOfMonsterWithInheritance\\Wizard.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\WorldOfMonster\\WorldOfMonsterWithInheritance\\Wizard.cs",
+              "RelativeToolTip": "WorldOfMonsterWithInheritance\\Wizard.cs",
+              "ViewState": "AgIAAAcAAABAMzMzM7MpwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:42:38.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Goblin.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\WorldOfMonster\\WorldOfMonsterWithInheritance\\Goblin.cs",
+              "RelativeDocumentMoniker": "WorldOfMonsterWithInheritance\\Goblin.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\WorldOfMonster\\WorldOfMonsterWithInheritance\\Goblin.cs",
+              "RelativeToolTip": "WorldOfMonsterWithInheritance\\Goblin.cs",
+              "ViewState": "AgIAAAwAAAAAmpmZmVknwBYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:42:34.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\WorldOfMonster\\WorldOfMonsterWithInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "WorldOfMonsterWithInheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\WorldOfMonster\\WorldOfMonsterWithInheritance\\Program.cs",
+              "RelativeToolTip": "WorldOfMonsterWithInheritance\\Program.cs",
+              "ViewState": "AgIAAAUAAABIMzMzM5MwwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:40:04.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Orc.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\WorldOfMonster\\WorldOfMonster\\Orc.cs",
+              "RelativeDocumentMoniker": "WorldOfMonster\\Orc.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\WorldOfMonster\\WorldOfMonster\\Orc.cs",
+              "RelativeToolTip": "WorldOfMonster\\Orc.cs",
+              "ViewState": "AgIAAAwAAAAgMjMzMzMTwBEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:34:26.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Wizard.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\WorldOfMonster\\WorldOfMonster\\Wizard.cs",
+              "RelativeDocumentMoniker": "WorldOfMonster\\Wizard.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\WorldOfMonster\\WorldOfMonster\\Wizard.cs",
+              "RelativeToolTip": "WorldOfMonster\\Wizard.cs",
+              "ViewState": "AgIAAAsAAABAAAAAAAAgwB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:33:11.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Goblin.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\WorldOfMonster\\WorldOfMonster\\Goblin.cs",
+              "RelativeDocumentMoniker": "WorldOfMonster\\Goblin.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\WorldOfMonster\\WorldOfMonster\\Goblin.cs",
+              "RelativeToolTip": "WorldOfMonster\\Goblin.cs",
+              "ViewState": "AgIAAAwAAAAA///////xvxEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:30:55.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\WorldOfMonster\\WorldOfMonster\\Program.cs",
+              "RelativeDocumentMoniker": "WorldOfMonster\\Program.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\WorldOfMonster\\WorldOfMonster\\Program.cs",
+              "RelativeToolTip": "WorldOfMonster\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:30:34.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Orc.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\WorldOfMonster\\WorldOfMonsterWithInheritance\\Orc.cs",
+              "RelativeDocumentMoniker": "WorldOfMonsterWithInheritance\\Orc.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\WorldOfMonster\\WorldOfMonsterWithInheritance\\Orc.cs",
+              "RelativeToolTip": "WorldOfMonsterWithInheritance\\Orc.cs",
+              "ViewState": "AgIAAAIAAACwmZmZmdkxwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:43:55.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

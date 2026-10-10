@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ricesky\\source\\repos\\AreaCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F73082B-CF07-464C-9B93-C31E26C2ACDF}|AreaCalculatorPolymorphism\\AreaCalculatorPolymorphism.csproj|c:\\users\\ricesky\\source\\repos\\areacalculator\\areacalculatorpolymorphism\\areacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F73082B-CF07-464C-9B93-C31E26C2ACDF}|AreaCalculatorPolymorphism\\AreaCalculatorPolymorphism.csproj|solutionrelative:areacalculatorpolymorphism\\areacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F73082B-CF07-464C-9B93-C31E26C2ACDF}|AreaCalculatorPolymorphism\\AreaCalculatorPolymorphism.csproj|c:\\users\\ricesky\\source\\repos\\areacalculator\\areacalculatorpolymorphism\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F73082B-CF07-464C-9B93-C31E26C2ACDF}|AreaCalculatorPolymorphism\\AreaCalculatorPolymorphism.csproj|solutionrelative:areacalculatorpolymorphism\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F73082B-CF07-464C-9B93-C31E26C2ACDF}|AreaCalculatorPolymorphism\\AreaCalculatorPolymorphism.csproj|c:\\users\\ricesky\\source\\repos\\areacalculator\\areacalculatorpolymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F73082B-CF07-464C-9B93-C31E26C2ACDF}|AreaCalculatorPolymorphism\\AreaCalculatorPolymorphism.csproj|solutionrelative:areacalculatorpolymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F73082B-CF07-464C-9B93-C31E26C2ACDF}|AreaCalculatorPolymorphism\\AreaCalculatorPolymorphism.csproj|c:\\users\\ricesky\\source\\repos\\areacalculator\\areacalculatorpolymorphism\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F73082B-CF07-464C-9B93-C31E26C2ACDF}|AreaCalculatorPolymorphism\\AreaCalculatorPolymorphism.csproj|solutionrelative:areacalculatorpolymorphism\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F73082B-CF07-464C-9B93-C31E26C2ACDF}|AreaCalculatorPolymorphism\\AreaCalculatorPolymorphism.csproj|c:\\users\\ricesky\\source\\repos\\areacalculator\\areacalculatorpolymorphism\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F73082B-CF07-464C-9B93-C31E26C2ACDF}|AreaCalculatorPolymorphism\\AreaCalculatorPolymorphism.csproj|solutionrelative:areacalculatorpolymorphism\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F73082B-CF07-464C-9B93-C31E26C2ACDF}|AreaCalculatorPolymorphism\\AreaCalculatorPolymorphism.csproj|c:\\users\\ricesky\\source\\repos\\areacalculator\\areacalculatorpolymorphism\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F73082B-CF07-464C-9B93-C31E26C2ACDF}|AreaCalculatorPolymorphism\\AreaCalculatorPolymorphism.csproj|solutionrelative:areacalculatorpolymorphism\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F73082B-CF07-464C-9B93-C31E26C2ACDF}|AreaCalculatorPolymorphism\\AreaCalculatorPolymorphism.csproj|c:\\users\\ricesky\\source\\repos\\areacalculator\\areacalculatorpolymorphism\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F73082B-CF07-464C-9B93-C31E26C2ACDF}|AreaCalculatorPolymorphism\\AreaCalculatorPolymorphism.csproj|solutionrelative:areacalculatorpolymorphism\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A4D9F4-B285-4153-ADD1-A9705DD292CC}|AreaCalculatorNonPolymorphism\\AreaCalculatorNonPolymorphism.csproj|c:\\users\\ricesky\\source\\repos\\areacalculator\\areacalculatornonpolymorphism\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A4D9F4-B285-4153-ADD1-A9705DD292CC}|AreaCalculatorNonPolymorphism\\AreaCalculatorNonPolymorphism.csproj|solutionrelative:areacalculatornonpolymorphism\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A4D9F4-B285-4153-ADD1-A9705DD292CC}|AreaCalculatorNonPolymorphism\\AreaCalculatorNonPolymorphism.csproj|c:\\users\\ricesky\\source\\repos\\areacalculator\\areacalculatornonpolymorphism\\areacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A4D9F4-B285-4153-ADD1-A9705DD292CC}|AreaCalculatorNonPolymorphism\\AreaCalculatorNonPolymorphism.csproj|solutionrelative:areacalculatornonpolymorphism\\areacalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A4D9F4-B285-4153-ADD1-A9705DD292CC}|AreaCalculatorNonPolymorphism\\AreaCalculatorNonPolymorphism.csproj|c:\\users\\ricesky\\source\\repos\\areacalculator\\areacalculatornonpolymorphism\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A4D9F4-B285-4153-ADD1-A9705DD292CC}|AreaCalculatorNonPolymorphism\\AreaCalculatorNonPolymorphism.csproj|solutionrelative:areacalculatornonpolymorphism\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A4D9F4-B285-4153-ADD1-A9705DD292CC}|AreaCalculatorNonPolymorphism\\AreaCalculatorNonPolymorphism.csproj|c:\\users\\ricesky\\source\\repos\\areacalculator\\areacalculatornonpolymorphism\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A4D9F4-B285-4153-ADD1-A9705DD292CC}|AreaCalculatorNonPolymorphism\\AreaCalculatorNonPolymorphism.csproj|solutionrelative:areacalculatornonpolymorphism\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A4D9F4-B285-4153-ADD1-A9705DD292CC}|AreaCalculatorNonPolymorphism\\AreaCalculatorNonPolymorphism.csproj|c:\\users\\ricesky\\source\\repos\\areacalculator\\areacalculatornonpolymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A4D9F4-B285-4153-ADD1-A9705DD292CC}|AreaCalculatorNonPolymorphism\\AreaCalculatorNonPolymorphism.csproj|solutionrelative:areacalculatornonpolymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\AreaCalculator\\AreaCalculatorPolymorphism\\Square.cs",
+              "RelativeDocumentMoniker": "AreaCalculatorPolymorphism\\Square.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\AreaCalculator\\AreaCalculatorPolymorphism\\Square.cs",
+              "RelativeToolTip": "AreaCalculatorPolymorphism\\Square.cs",
+              "ViewState": "AgIAAAEAAAAgAAAAAIAZwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T04:03:21.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\AreaCalculator\\AreaCalculatorPolymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "AreaCalculatorPolymorphism\\Program.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\AreaCalculator\\AreaCalculatorPolymorphism\\Program.cs",
+              "RelativeToolTip": "AreaCalculatorPolymorphism\\Program.cs",
+              "ViewState": "AgIAAAgAAACgAgAAAIAZwBYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T04:02:31.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\AreaCalculator\\AreaCalculatorPolymorphism\\Shape.cs",
+              "RelativeDocumentMoniker": "AreaCalculatorPolymorphism\\Shape.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\AreaCalculator\\AreaCalculatorPolymorphism\\Shape.cs",
+              "RelativeToolTip": "AreaCalculatorPolymorphism\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T03:59:26.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\AreaCalculator\\AreaCalculatorPolymorphism\\Triangle.cs",
+              "RelativeDocumentMoniker": "AreaCalculatorPolymorphism\\Triangle.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\AreaCalculator\\AreaCalculatorPolymorphism\\Triangle.cs",
+              "RelativeToolTip": "AreaCalculatorPolymorphism\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T03:57:53.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\AreaCalculator\\AreaCalculatorPolymorphism\\Rectangle.cs",
+              "RelativeDocumentMoniker": "AreaCalculatorPolymorphism\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\AreaCalculator\\AreaCalculatorPolymorphism\\Rectangle.cs",
+              "RelativeToolTip": "AreaCalculatorPolymorphism\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T03:57:48.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\AreaCalculator\\AreaCalculatorPolymorphism\\Circle.cs",
+              "RelativeDocumentMoniker": "AreaCalculatorPolymorphism\\Circle.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\AreaCalculator\\AreaCalculatorPolymorphism\\Circle.cs",
+              "RelativeToolTip": "AreaCalculatorPolymorphism\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T03:57:45.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AreaCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\AreaCalculator\\AreaCalculatorPolymorphism\\AreaCalculator.cs",
+              "RelativeDocumentMoniker": "AreaCalculatorPolymorphism\\AreaCalculator.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\AreaCalculator\\AreaCalculatorPolymorphism\\AreaCalculator.cs",
+              "RelativeToolTip": "AreaCalculatorPolymorphism\\AreaCalculator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T03:57:38.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AreaCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\AreaCalculator\\AreaCalculatorNonPolymorphism\\AreaCalculator.cs",
+              "RelativeDocumentMoniker": "AreaCalculatorNonPolymorphism\\AreaCalculator.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\AreaCalculator\\AreaCalculatorNonPolymorphism\\AreaCalculator.cs",
+              "RelativeToolTip": "AreaCalculatorNonPolymorphism\\AreaCalculator.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T03:42:47.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\AreaCalculator\\AreaCalculatorNonPolymorphism\\Triangle.cs",
+              "RelativeDocumentMoniker": "AreaCalculatorNonPolymorphism\\Triangle.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\AreaCalculator\\AreaCalculatorNonPolymorphism\\Triangle.cs",
+              "RelativeToolTip": "AreaCalculatorNonPolymorphism\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T03:39:58.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\AreaCalculator\\AreaCalculatorNonPolymorphism\\Rectangle.cs",
+              "RelativeDocumentMoniker": "AreaCalculatorNonPolymorphism\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\AreaCalculator\\AreaCalculatorNonPolymorphism\\Rectangle.cs",
+              "RelativeToolTip": "AreaCalculatorNonPolymorphism\\Rectangle.cs",
+              "ViewState": "AgIAAAIAAAAAPjMzMzPrvw8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T03:38:40.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\AreaCalculator\\AreaCalculatorNonPolymorphism\\Circle.cs",
+              "RelativeDocumentMoniker": "AreaCalculatorNonPolymorphism\\Circle.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\AreaCalculator\\AreaCalculatorNonPolymorphism\\Circle.cs",
+              "RelativeToolTip": "AreaCalculatorNonPolymorphism\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T03:37:13.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\AreaCalculator\\AreaCalculatorNonPolymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "AreaCalculatorNonPolymorphism\\Program.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\AreaCalculator\\AreaCalculatorNonPolymorphism\\Program.cs",
+              "RelativeToolTip": "AreaCalculatorNonPolymorphism\\Program.cs",
+              "ViewState": "AgIAAAgAAAAgMzMzM7MiwBgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T03:36:39.321Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
