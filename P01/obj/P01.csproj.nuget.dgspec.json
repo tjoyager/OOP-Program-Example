@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/Program/PBO-Program-Example/P01/P01.csproj": {}
+    "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/PBO-Program-Example/P01/P01.csproj": {}
   },
   "projects": {
-    "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/Program/PBO-Program-Example/P01/P01.csproj": {
+    "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/PBO-Program-Example/P01/P01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/Program/PBO-Program-Example/P01/P01.csproj",
+        "projectUniqueName": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/PBO-Program-Example/P01/P01.csproj",
         "projectName": "P01",
-        "projectPath": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/Program/PBO-Program-Example/P01/P01.csproj",
+        "projectPath": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/PBO-Program-Example/P01/P01.csproj",
         "packagesPath": "/home/hadryan/.nuget/packages/",
-        "outputPath": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/Program/PBO-Program-Example/P01/obj/",
+        "outputPath": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/PBO-Program-Example/P01/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/hadryan/.nuget/NuGet/NuGet.Config"

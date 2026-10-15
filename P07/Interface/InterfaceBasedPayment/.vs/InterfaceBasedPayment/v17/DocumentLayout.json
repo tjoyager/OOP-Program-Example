@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ricesky\\source\\repos\\InterfaceBasedPayment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87A15ABB-CCF3-4800-9E67-78001B3D1B1C}|InterfaceBasedPayment\\InterfaceBasedPayment.csproj|c:\\users\\ricesky\\source\\repos\\interfacebasedpayment\\interfacebasedpayment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A15ABB-CCF3-4800-9E67-78001B3D1B1C}|InterfaceBasedPayment\\InterfaceBasedPayment.csproj|solutionrelative:interfacebasedpayment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A15ABB-CCF3-4800-9E67-78001B3D1B1C}|InterfaceBasedPayment\\InterfaceBasedPayment.csproj|c:\\users\\ricesky\\source\\repos\\interfacebasedpayment\\interfacebasedpayment\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A15ABB-CCF3-4800-9E67-78001B3D1B1C}|InterfaceBasedPayment\\InterfaceBasedPayment.csproj|solutionrelative:interfacebasedpayment\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A15ABB-CCF3-4800-9E67-78001B3D1B1C}|InterfaceBasedPayment\\InterfaceBasedPayment.csproj|c:\\users\\ricesky\\source\\repos\\interfacebasedpayment\\interfacebasedpayment\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A15ABB-CCF3-4800-9E67-78001B3D1B1C}|InterfaceBasedPayment\\InterfaceBasedPayment.csproj|solutionrelative:interfacebasedpayment\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A15ABB-CCF3-4800-9E67-78001B3D1B1C}|InterfaceBasedPayment\\InterfaceBasedPayment.csproj|c:\\users\\ricesky\\source\\repos\\interfacebasedpayment\\interfacebasedpayment\\banktransferpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A15ABB-CCF3-4800-9E67-78001B3D1B1C}|InterfaceBasedPayment\\InterfaceBasedPayment.csproj|solutionrelative:interfacebasedpayment\\banktransferpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A15ABB-CCF3-4800-9E67-78001B3D1B1C}|InterfaceBasedPayment\\InterfaceBasedPayment.csproj|c:\\users\\ricesky\\source\\repos\\interfacebasedpayment\\interfacebasedpayment\\ewalletpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A15ABB-CCF3-4800-9E67-78001B3D1B1C}|InterfaceBasedPayment\\InterfaceBasedPayment.csproj|solutionrelative:interfacebasedpayment\\ewalletpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A15ABB-CCF3-4800-9E67-78001B3D1B1C}|InterfaceBasedPayment\\InterfaceBasedPayment.csproj|c:\\users\\ricesky\\source\\repos\\interfacebasedpayment\\interfacebasedpayment\\irefundable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A15ABB-CCF3-4800-9E67-78001B3D1B1C}|InterfaceBasedPayment\\InterfaceBasedPayment.csproj|solutionrelative:interfacebasedpayment\\irefundable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EWalletPayment.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\InterfaceBasedPayment\\InterfaceBasedPayment\\EWalletPayment.cs",
+              "RelativeDocumentMoniker": "InterfaceBasedPayment\\EWalletPayment.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\InterfaceBasedPayment\\InterfaceBasedPayment\\EWalletPayment.cs",
+              "RelativeToolTip": "InterfaceBasedPayment\\EWalletPayment.cs",
+              "ViewState": "AgIAAAcAAAAAmZmZmZkOwAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T03:00:48.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankTransferPayment.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\InterfaceBasedPayment\\InterfaceBasedPayment\\BankTransferPayment.cs",
+              "RelativeDocumentMoniker": "InterfaceBasedPayment\\BankTransferPayment.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\InterfaceBasedPayment\\InterfaceBasedPayment\\BankTransferPayment.cs",
+              "RelativeToolTip": "InterfaceBasedPayment\\BankTransferPayment.cs",
+              "ViewState": "AgIAAAQAAABA/f///38ZwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T03:00:26.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\InterfaceBasedPayment\\InterfaceBasedPayment\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "InterfaceBasedPayment\\CreditCardPayment.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\InterfaceBasedPayment\\InterfaceBasedPayment\\CreditCardPayment.cs",
+              "RelativeToolTip": "InterfaceBasedPayment\\CreditCardPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T03:00:00.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\InterfaceBasedPayment\\InterfaceBasedPayment\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "InterfaceBasedPayment\\PaymentMethod.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\InterfaceBasedPayment\\InterfaceBasedPayment\\PaymentMethod.cs",
+              "RelativeToolTip": "InterfaceBasedPayment\\PaymentMethod.cs",
+              "ViewState": "AgIAAAUAAAAAAQAAAAAAwA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T02:59:32.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRefundable.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\InterfaceBasedPayment\\InterfaceBasedPayment\\IRefundable.cs",
+              "RelativeDocumentMoniker": "InterfaceBasedPayment\\IRefundable.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\InterfaceBasedPayment\\InterfaceBasedPayment\\IRefundable.cs",
+              "RelativeToolTip": "InterfaceBasedPayment\\IRefundable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T02:59:02.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\InterfaceBasedPayment\\InterfaceBasedPayment\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceBasedPayment\\Program.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\InterfaceBasedPayment\\InterfaceBasedPayment\\Program.cs",
+              "RelativeToolTip": "InterfaceBasedPayment\\Program.cs",
+              "ViewState": "AgIAAAEAAACAzMzMzMwnwBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T02:58:42.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

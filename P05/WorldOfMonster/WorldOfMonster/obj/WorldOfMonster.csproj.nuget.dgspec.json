@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/Program/P05/WorldOfMonster/WorldOfMonster/WorldOfMonster.csproj": {}
+    "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/PBO-Program-Example/P05/WorldOfMonster/WorldOfMonster/WorldOfMonster.csproj": {}
   },
   "projects": {
-    "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/Program/P05/WorldOfMonster/WorldOfMonster/WorldOfMonster.csproj": {
+    "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/PBO-Program-Example/P05/WorldOfMonster/WorldOfMonster/WorldOfMonster.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/Program/P05/WorldOfMonster/WorldOfMonster/WorldOfMonster.csproj",
+        "projectUniqueName": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/PBO-Program-Example/P05/WorldOfMonster/WorldOfMonster/WorldOfMonster.csproj",
         "projectName": "WorldOfMonster",
-        "projectPath": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/Program/P05/WorldOfMonster/WorldOfMonster/WorldOfMonster.csproj",
+        "projectPath": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/PBO-Program-Example/P05/WorldOfMonster/WorldOfMonster/WorldOfMonster.csproj",
         "packagesPath": "/home/hadryan/.nuget/packages/",
-        "outputPath": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/Program/P05/WorldOfMonster/WorldOfMonster/obj/",
+        "outputPath": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/PBO-Program-Example/P05/WorldOfMonster/WorldOfMonster/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/hadryan/.nuget/NuGet/NuGet.Config"

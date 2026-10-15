@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/Program/P06/AreaCalculator/AreaCalculatorNonPolymorphism/AreaCalculatorNonPolymorphism.csproj": {}
+    "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/PBO-Program-Example/P06/AreaCalculator/AreaCalculatorNonPolymorphism/AreaCalculatorNonPolymorphism.csproj": {}
   },
   "projects": {
-    "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/Program/P06/AreaCalculator/AreaCalculatorNonPolymorphism/AreaCalculatorNonPolymorphism.csproj": {
+    "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/PBO-Program-Example/P06/AreaCalculator/AreaCalculatorNonPolymorphism/AreaCalculatorNonPolymorphism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/Program/P06/AreaCalculator/AreaCalculatorNonPolymorphism/AreaCalculatorNonPolymorphism.csproj",
+        "projectUniqueName": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/PBO-Program-Example/P06/AreaCalculator/AreaCalculatorNonPolymorphism/AreaCalculatorNonPolymorphism.csproj",
         "projectName": "AreaCalculatorNonPolymorphism",
-        "projectPath": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/Program/P06/AreaCalculator/AreaCalculatorNonPolymorphism/AreaCalculatorNonPolymorphism.csproj",
+        "projectPath": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/PBO-Program-Example/P06/AreaCalculator/AreaCalculatorNonPolymorphism/AreaCalculatorNonPolymorphism.csproj",
         "packagesPath": "/home/hadryan/.nuget/packages/",
-        "outputPath": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/Program/P06/AreaCalculator/AreaCalculatorNonPolymorphism/obj/",
+        "outputPath": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/PBO-Program-Example/P06/AreaCalculator/AreaCalculatorNonPolymorphism/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/hadryan/.nuget/NuGet/NuGet.Config"

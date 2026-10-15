@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\git\\learn-csharp\\EnvironmentInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13DE1934-66AC-4891-81C7-BDE492062E82}|EnvironmentInterface\\EnvironmentInterface.csproj|z:\\git\\learn-csharp\\environmentinterface\\environmentinterface\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DE1934-66AC-4891-81C7-BDE492062E82}|EnvironmentInterface\\EnvironmentInterface.csproj|solutionrelative:environmentinterface\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DE1934-66AC-4891-81C7-BDE492062E82}|EnvironmentInterface\\EnvironmentInterface.csproj|z:\\git\\learn-csharp\\environmentinterface\\environmentinterface\\drawingobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DE1934-66AC-4891-81C7-BDE492062E82}|EnvironmentInterface\\EnvironmentInterface.csproj|solutionrelative:environmentinterface\\drawingobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DE1934-66AC-4891-81C7-BDE492062E82}|EnvironmentInterface\\EnvironmentInterface.csproj|z:\\git\\learn-csharp\\environmentinterface\\environmentinterface\\mountain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DE1934-66AC-4891-81C7-BDE492062E82}|EnvironmentInterface\\EnvironmentInterface.csproj|solutionrelative:environmentinterface\\mountain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DE1934-66AC-4891-81C7-BDE492062E82}|EnvironmentInterface\\EnvironmentInterface.csproj|z:\\git\\learn-csharp\\environmentinterface\\environmentinterface\\imovingobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DE1934-66AC-4891-81C7-BDE492062E82}|EnvironmentInterface\\EnvironmentInterface.csproj|solutionrelative:environmentinterface\\imovingobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DE1934-66AC-4891-81C7-BDE492062E82}|EnvironmentInterface\\EnvironmentInterface.csproj|z:\\git\\learn-csharp\\environmentinterface\\environmentinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DE1934-66AC-4891-81C7-BDE492062E82}|EnvironmentInterface\\EnvironmentInterface.csproj|solutionrelative:environmentinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DE1934-66AC-4891-81C7-BDE492062E82}|EnvironmentInterface\\EnvironmentInterface.csproj|z:\\git\\learn-csharp\\environmentinterface\\environmentinterface\\environment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DE1934-66AC-4891-81C7-BDE492062E82}|EnvironmentInterface\\EnvironmentInterface.csproj|solutionrelative:environmentinterface\\environment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DE1934-66AC-4891-81C7-BDE492062E82}|EnvironmentInterface\\EnvironmentInterface.csproj|z:\\git\\learn-csharp\\environmentinterface\\environmentinterface\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DE1934-66AC-4891-81C7-BDE492062E82}|EnvironmentInterface\\EnvironmentInterface.csproj|solutionrelative:environmentinterface\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMovingObject.cs",
+              "DocumentMoniker": "Z:\\git\\learn-csharp\\EnvironmentInterface\\EnvironmentInterface\\IMovingObject.cs",
+              "RelativeDocumentMoniker": "EnvironmentInterface\\IMovingObject.cs",
+              "ToolTip": "Z:\\git\\learn-csharp\\EnvironmentInterface\\EnvironmentInterface\\IMovingObject.cs",
+              "RelativeToolTip": "EnvironmentInterface\\IMovingObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:45:49.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "Z:\\git\\learn-csharp\\EnvironmentInterface\\EnvironmentInterface\\Car.cs",
+              "RelativeDocumentMoniker": "EnvironmentInterface\\Car.cs",
+              "ToolTip": "Z:\\git\\learn-csharp\\EnvironmentInterface\\EnvironmentInterface\\Car.cs",
+              "RelativeToolTip": "EnvironmentInterface\\Car.cs",
+              "ViewState": "AgIAAAMAAACAZmZmZmYUwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:40:50.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mountain.cs",
+              "DocumentMoniker": "Z:\\git\\learn-csharp\\EnvironmentInterface\\EnvironmentInterface\\Mountain.cs",
+              "RelativeDocumentMoniker": "EnvironmentInterface\\Mountain.cs",
+              "ToolTip": "Z:\\git\\learn-csharp\\EnvironmentInterface\\EnvironmentInterface\\Mountain.cs",
+              "RelativeToolTip": "EnvironmentInterface\\Mountain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:39:42.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "Z:\\git\\learn-csharp\\EnvironmentInterface\\EnvironmentInterface\\Bird.cs",
+              "RelativeDocumentMoniker": "EnvironmentInterface\\Bird.cs",
+              "ToolTip": "Z:\\git\\learn-csharp\\EnvironmentInterface\\EnvironmentInterface\\Bird.cs",
+              "RelativeToolTip": "EnvironmentInterface\\Bird.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:38:42.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DrawingObject.cs",
+              "DocumentMoniker": "Z:\\git\\learn-csharp\\EnvironmentInterface\\EnvironmentInterface\\DrawingObject.cs",
+              "RelativeDocumentMoniker": "EnvironmentInterface\\DrawingObject.cs",
+              "ToolTip": "Z:\\git\\learn-csharp\\EnvironmentInterface\\EnvironmentInterface\\DrawingObject.cs",
+              "RelativeToolTip": "EnvironmentInterface\\DrawingObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:35:33.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Environment.cs",
+              "DocumentMoniker": "Z:\\git\\learn-csharp\\EnvironmentInterface\\EnvironmentInterface\\Environment.cs",
+              "RelativeDocumentMoniker": "EnvironmentInterface\\Environment.cs",
+              "ToolTip": "Z:\\git\\learn-csharp\\EnvironmentInterface\\EnvironmentInterface\\Environment.cs",
+              "RelativeToolTip": "EnvironmentInterface\\Environment.cs",
+              "ViewState": "AQIAABYAAAAgAAAAAMArwCQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:33:20.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\git\\learn-csharp\\EnvironmentInterface\\EnvironmentInterface\\Program.cs",
+              "RelativeDocumentMoniker": "EnvironmentInterface\\Program.cs",
+              "ToolTip": "Z:\\git\\learn-csharp\\EnvironmentInterface\\EnvironmentInterface\\Program.cs",
+              "RelativeToolTip": "EnvironmentInterface\\Program.cs",
+              "ViewState": "AQIAAAIAAACgmZmZmVk6wAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:32:51.84Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

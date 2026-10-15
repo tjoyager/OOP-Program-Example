@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lvAmYkb1N1A=",
+  "success": true,
+  "projectFilePath": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/PBO-Program-Example/P07/Interface/EnvironmentInterface/EnvironmentInterface/EnvironmentInterface/EnvironmentInterface.csproj",
+  "expectedPackageFiles": [
+    "/home/hadryan/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/home/hadryan/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "/home/hadryan/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.36/microsoft.netcore.app.host.linux-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

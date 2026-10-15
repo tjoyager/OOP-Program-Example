@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorldOfMonsterWithInheritance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+852a36d8db1c2ccc8a6d3c5d653082dda4b36d42")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorldOfMonsterWithInheritance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorldOfMonsterWithInheritance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/Program/P05/Composition/Composition/Composition.csproj",
+      "projectUniqueName": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/PBO-Program-Example/P05/Composition/Composition/Composition.csproj",
       "projectName": "Composition",
-      "projectPath": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/Program/P05/Composition/Composition/Composition.csproj",
+      "projectPath": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/PBO-Program-Example/P05/Composition/Composition/Composition.csproj",
       "packagesPath": "/home/hadryan/.nuget/packages/",
-      "outputPath": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/Program/P05/Composition/Composition/obj/",
+      "outputPath": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/PBO-Program-Example/P05/Composition/Composition/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/hadryan/.nuget/NuGet/NuGet.Config"

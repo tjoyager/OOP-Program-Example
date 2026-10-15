@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ricesky\\source\\repos\\AbstractShape\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F652DE-FE68-4CEF-893A-8978F596B937}|AbstractShape\\AbstractShape.csproj|c:\\users\\ricesky\\source\\repos\\abstractshape\\abstractshape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F652DE-FE68-4CEF-893A-8978F596B937}|AbstractShape\\AbstractShape.csproj|solutionrelative:abstractshape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F652DE-FE68-4CEF-893A-8978F596B937}|AbstractShape\\AbstractShape.csproj|c:\\users\\ricesky\\source\\repos\\abstractshape\\abstractshape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F652DE-FE68-4CEF-893A-8978F596B937}|AbstractShape\\AbstractShape.csproj|solutionrelative:abstractshape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F652DE-FE68-4CEF-893A-8978F596B937}|AbstractShape\\AbstractShape.csproj|c:\\users\\ricesky\\source\\repos\\abstractshape\\abstractshape\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F652DE-FE68-4CEF-893A-8978F596B937}|AbstractShape\\AbstractShape.csproj|solutionrelative:abstractshape\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F652DE-FE68-4CEF-893A-8978F596B937}|AbstractShape\\AbstractShape.csproj|c:\\users\\ricesky\\source\\repos\\abstractshape\\abstractshape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F652DE-FE68-4CEF-893A-8978F596B937}|AbstractShape\\AbstractShape.csproj|solutionrelative:abstractshape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F652DE-FE68-4CEF-893A-8978F596B937}|AbstractShape\\AbstractShape.csproj|c:\\users\\ricesky\\source\\repos\\abstractshape\\abstractshape\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F652DE-FE68-4CEF-893A-8978F596B937}|AbstractShape\\AbstractShape.csproj|solutionrelative:abstractshape\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F652DE-FE68-4CEF-893A-8978F596B937}|AbstractShape\\AbstractShape.csproj|c:\\users\\ricesky\\source\\repos\\abstractshape\\abstractshape\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F652DE-FE68-4CEF-893A-8978F596B937}|AbstractShape\\AbstractShape.csproj|solutionrelative:abstractshape\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\AbstractShape\\AbstractShape\\Square.cs",
+              "RelativeDocumentMoniker": "AbstractShape\\Square.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\AbstractShape\\AbstractShape\\Square.cs*",
+              "RelativeToolTip": "AbstractShape\\Square.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T04:30:47.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\AbstractShape\\AbstractShape\\Triangle.cs",
+              "RelativeDocumentMoniker": "AbstractShape\\Triangle.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\AbstractShape\\AbstractShape\\Triangle.cs",
+              "RelativeToolTip": "AbstractShape\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T04:30:44.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\AbstractShape\\AbstractShape\\Rectangle.cs",
+              "RelativeDocumentMoniker": "AbstractShape\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\AbstractShape\\AbstractShape\\Rectangle.cs",
+              "RelativeToolTip": "AbstractShape\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T04:30:42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\AbstractShape\\AbstractShape\\Shape.cs",
+              "RelativeDocumentMoniker": "AbstractShape\\Shape.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\AbstractShape\\AbstractShape\\Shape.cs",
+              "RelativeToolTip": "AbstractShape\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T04:30:38.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\AbstractShape\\AbstractShape\\Circle.cs",
+              "RelativeDocumentMoniker": "AbstractShape\\Circle.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\AbstractShape\\AbstractShape\\Circle.cs",
+              "RelativeToolTip": "AbstractShape\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T04:30:31.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ricesky\\source\\repos\\AbstractShape\\AbstractShape\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractShape\\Program.cs",
+              "ToolTip": "C:\\Users\\ricesky\\source\\repos\\AbstractShape\\AbstractShape\\Program.cs",
+              "RelativeToolTip": "AbstractShape\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T04:29:08.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

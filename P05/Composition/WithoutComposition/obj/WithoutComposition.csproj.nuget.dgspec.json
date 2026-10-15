@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/Program/P05/Composition/WithoutComposition/WithoutComposition.csproj": {}
+    "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/PBO-Program-Example/P05/Composition/WithoutComposition/WithoutComposition.csproj": {}
   },
   "projects": {
-    "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/Program/P05/Composition/WithoutComposition/WithoutComposition.csproj": {
+    "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/PBO-Program-Example/P05/Composition/WithoutComposition/WithoutComposition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/Program/P05/Composition/WithoutComposition/WithoutComposition.csproj",
+        "projectUniqueName": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/PBO-Program-Example/P05/Composition/WithoutComposition/WithoutComposition.csproj",
         "projectName": "WithoutComposition",
-        "projectPath": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/Program/P05/Composition/WithoutComposition/WithoutComposition.csproj",
+        "projectPath": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/PBO-Program-Example/P05/Composition/WithoutComposition/WithoutComposition.csproj",
         "packagesPath": "/home/hadryan/.nuget/packages/",
-        "outputPath": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/Program/P05/Composition/WithoutComposition/obj/",
+        "outputPath": "/media/hadryan/Data/Kuliah/Semester 3/4. Pemrograman Berbasis Objek/PBO-Program-Example/P05/Composition/WithoutComposition/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/hadryan/.nuget/NuGet/NuGet.Config"
